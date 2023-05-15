@@ -7,11 +7,9 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/thimionii" target="blank"><img src="https://img.shields.io/twitter/follow/thimionii?logo=twitter&style=for-the-badge" alt="thimionii" /></a> </p>
 
-- 🔭 I’m currently working on **some secret application...#NDA**
-
 - 🌱 I’m currently learning **spring security, Angular and Ionic**
 
-- 👯 I’m looking to collaborate on **sndroid and any spring-boot projects**
+- 👯 I’m looking to collaborate on **android and any spring-boot projects**
 
 - 💬 Ask me about **android, java and spring-boot features**
 
