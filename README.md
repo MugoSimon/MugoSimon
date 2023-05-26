@@ -7,7 +7,7 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/thimionii" target="blank"><img src="https://img.shields.io/twitter/follow/thimionii?logo=twitter&style=for-the-badge" alt="thimionii" /></a> </p>
 
-- 🌱 I’m currently learning **spring security, Angular and Ionic**
+- 🌱 I’m currently learning **spring security, Dart and FLutter**
 
 - 👯 I’m looking to collaborate on **android and any spring-boot projects**
 
