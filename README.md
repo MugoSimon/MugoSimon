@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mugo... but grandma calls me thimionii</h1>
 <h3 align="center">A passionate backend developer from Nairobi, Kenya.</h3>
 
-<p align="left"> <a href="https://twitter.com/thimionii" target="blank"><img src="https://img.shields.io/twitter/follow/thimionii?logo=twitter&style=for-the-badge" alt="thimionii" /></a> </p>
 
 - 🌱 I’m currently learning **spring security, Dart and FLutter**
 
@@ -9,18 +8,9 @@
 
 - 💬 Ask me about **android, java and spring-boot features**
 
-- 📫 How to reach me **mugolastbon@gmail.com**
-
-- 📄 Know about my experiences [github.com/mugosimon](github.com/mugosimon)
-
 - ⚡ Fun fact **zebra milk isn't black and white; but hippo's milk is pink.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thimionii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thimionii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mugosimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugosimon" height="30" width="40" /></a>
-<a href="https://fb.com/mugoosimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mugoosimon" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
